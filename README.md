@@ -69,7 +69,7 @@ Those will be handled separately as the product moves toward v1.0.
 
 - 🌐 Website & downloads: https://s-convert.com/
 - 🐛 Report a bug: https://github.com/brendanspear/s-convert-bugs/issues/new
-- 📢 Known issues & announcements: https://github.com//brendanspear/s-convert-bugs/discussions
+- 📢 Known issues & announcements: https://github.com/brendanspear/s-convert-bugs/wiki
 
 
 
